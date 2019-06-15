@@ -1,0 +1,14 @@
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/bin/Debug/netcoreapp2.1/BumpinAPI.deps.json
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/bin/Debug/netcoreapp2.1/BumpinAPI.runtimeconfig.json
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/bin/Debug/netcoreapp2.1/BumpinAPI.runtimeconfig.dev.json
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/bin/Debug/netcoreapp2.1/BumpinAPI.dll
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/bin/Debug/netcoreapp2.1/BumpinAPI.pdb
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/obj/Debug/netcoreapp2.1/BumpinAPI.csprojAssemblyReference.cache
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/obj/Debug/netcoreapp2.1/BumpinAPI.csproj.CoreCompileInputs.cache
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/obj/Debug/netcoreapp2.1/BumpinAPI.RazorAssemblyInfo.cache
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/obj/Debug/netcoreapp2.1/BumpinAPI.RazorAssemblyInfo.cs
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/obj/Debug/netcoreapp2.1/BumpinAPI.AssemblyInfoInputs.cache
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/obj/Debug/netcoreapp2.1/BumpinAPI.AssemblyInfo.cs
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/obj/Debug/netcoreapp2.1/BumpinAPI.RazorTargetAssemblyInfo.cache
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/obj/Debug/netcoreapp2.1/BumpinAPI.dll
+/Users/anmolsingh/Documents/whatsbumpin/API/BumpinAPI/BumpinAPI/obj/Debug/netcoreapp2.1/BumpinAPI.pdb
